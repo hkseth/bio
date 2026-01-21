@@ -2,7 +2,7 @@
 
 **Chief Architect & Head of Forward Deployment Engineering @ [kore.ai](https://kore.ai)**
 
-<a href="https://www.linkedin.com/in/hiteshseth"><img src="https://cdn.simpleicons.org/linkedin" width="16" height="16"></a> <a href="mailto:hitesh.seth@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="16" height="16"></a> <a href="https://discord.com/users/hitechseth"><img src="https://cdn.simpleicons.org/discord/5865F2" width="16" height="16"></a>
+<a href="https://www.linkedin.com/in/hiteshseth"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/downloads/fg/brandg-business-in-logo-dsk-v03.png/jcr:content/renditions/brandg-business-in-logo-dsk-v03-2x.png" width="16" height="16"></a> <a href="mailto:hitesh.seth@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="16" height="16"></a> <a href="https://discord.com/users/hitechseth"><img src="https://cdn.simpleicons.org/discord/5865F2" width="16" height="16"></a>
 
 ---
 

@@ -2,7 +2,7 @@
 
 **Chief Architect & Head of Forward Deployment Engineering @ [kore.ai](https://kore.ai)**
 
-[LinkedIn](https://www.linkedin.com/in/hiteshseth) · [Email](mailto:hitesh.seth@gmail.com) · [Discord](https://discord.com/users/hitechseth)
+[![LinkedIn](https://img.shields.io/badge/-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiteshseth) [![Email](https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hitesh.seth@gmail.com) [![Discord](https://img.shields.io/badge/-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/hitechseth)
 
 ---
 
